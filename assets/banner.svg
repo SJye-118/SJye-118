@@ -1,0 +1,24 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#15191D"/>
+      <stop offset="100%" stop-color="#0F1417"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+
+  <text x="1150" y="235" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="260" fill="#F6F8F7" opacity="0.045">SJ</text>
+
+  <rect x="80" y="86" width="48" height="4" rx="2" fill="#2FD4C0"/>
+
+  <text x="80" y="74" font-family="'Courier New', Consolas, monospace" font-size="15" letter-spacing="2" fill="#2FD4C0">MALAYSIA · CYBERSECURITY &amp; SOFTWARE</text>
+
+  <text x="78" y="170" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="74" fill="#F6F8F7">SJYE</text>
+
+  <text x="80" y="207" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#A9B0AD">Cybersecurity &amp; IT student — actively seeking an internship</text>
+
+  <rect x="80" y="230" width="232" height="34" rx="17" fill="none" stroke="#2FD4C0" stroke-width="1.5"/>
+  <circle cx="100" cy="247" r="4" fill="#2FD4C0"/>
+  <text x="114" y="252" font-family="'Courier New', Consolas, monospace" font-size="13" letter-spacing="1" fill="#2FD4C0">OPEN TO INTERNSHIPS</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#15191D"/>
+      <stop offset="100%" stop-color="#0F1417"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="400" rx="20" fill="url(#bg2)"/>
+
+  <text x="100" y="52" font-family="'Courier New', Consolas, monospace" font-size="14" letter-spacing="2" fill="#2FD4C0">TIMELINE</text>
+  <rect x="100" y="62" width="40" height="3" rx="1.5" fill="#2FD4C0"/>
+
+  <line x1="100" y1="200" x2="1100" y2="200" stroke="#3A3F42" stroke-width="2"/>
+
+  <!-- Node 1: Nov 2024 - Certification (label above) -->
+  <line x1="100" y1="200" x2="100" y2="168" stroke="#3A3F42" stroke-width="1.5"/>
+  <circle cx="100" cy="200" r="7" fill="#15191D" stroke="#2FD4C0" stroke-width="2.5"/>
+  <text x="100" y="150" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="13" letter-spacing="1" fill="#2FD4C0">NOV 2024</text>
+  <text x="100" y="125" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="17" fill="#F6F8F7">AI App Design Cert.</text>
+  <text x="100" y="103" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8A9290">Adv. Semiconductor Academy</text>
+
+  <!-- Node 2: Mar-May 2025 - FootfallCam internship (label below) -->
+  <line x1="433" y1="200" x2="433" y2="232" stroke="#3A3F42" stroke-width="1.5"/>
+  <circle cx="433" cy="200" r="7" fill="#2FD4C0" stroke="#2FD4C0" stroke-width="2.5"/>
+  <text x="433" y="252" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="13" letter-spacing="1" fill="#2FD4C0">MAR – MAY 2025</text>
+  <text x="433" y="277" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="17" fill="#F6F8F7">SWE Intern, FootfallCam</text>
+  <text x="433" y="299" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8A9290">Top Quadrant Distinction Award</text>
+
+  <!-- Node 3: 2025 - Diploma (label above) -->
+  <line x1="767" y1="200" x2="767" y2="168" stroke="#3A3F42" stroke-width="1.5"/>
+  <circle cx="767" cy="200" r="7" fill="#15191D" stroke="#2FD4C0" stroke-width="2.5"/>
+  <text x="767" y="150" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="13" letter-spacing="1" fill="#2FD4C0">2025</text>
+  <text x="767" y="125" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="17" fill="#F6F8F7">Diploma, Computer Science</text>
+  <text x="767" y="103" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8A9290">GPA 3.48</text>
+
+  <!-- Node 4: Expected 2027 - Bachelor's (label below, in progress) -->
+  <line x1="1100" y1="200" x2="1100" y2="232" stroke="#3A3F42" stroke-width="1.5"/>
+  <circle cx="1100" cy="200" r="7" fill="none" stroke="#2FD4C0" stroke-width="2.5" stroke-dasharray="3 3"/>
+  <text x="1100" y="252" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="13" letter-spacing="1" fill="#2FD4C0">EXPECTED 2027</text>
+  <text x="1100" y="277" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="17" fill="#F6F8F7">B.IT (Cyber Security), Hons.</text>
+  <text x="1100" y="299" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8A9290">GPA 3.59 · Dean's List</text>
+
+  <text x="1100" y="350" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="12" letter-spacing="1" fill="#5A6260">IN PROGRESS</text>
+</svg>
